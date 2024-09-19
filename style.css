@@ -1,8 +1,188 @@
 /* Задача 1 */
-.content {
+/* .content {
   width: 100px;
   height: 100px;
   padding: 0 10px 10px 5px;
   border: 1px solid #000000;
   border-right-width: 2px;
+} */
+
+
+/* Задача 2 */
+/* .content {
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding: 10px 0 10px 5px;
+    border: 1px solid #000000;
+  } */
+
+/* Задача 3 */
+/* .content {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 50px 25px 100px;
+    border: 3px solid #000000;
+    border-left-width: 1px;
+  } */
+
+/* Задача 4 */
+/* .content {
+  box-sizing: content-box;
+  height: 200px;
+  max-height: 150px;
+  padding: 50px;
+  border: 5px solid #000000;
+} */
+
+/* Задача 5 */
+/* .content {
+    box-sizing: border-box;
+    min-width: 200px;
+    width: 100px;
+    padding: 10px;
+  } */
+
+/* Задача 6 */
+/* .modal {
+  position: relative;
 }
+        
+.content {
+  position: absolute;
+  box-sizing: border-box;
+  height: 20px;
+  padding: 10px;
+  border: 5px solid #000000;
+} */
+
+/* Задача 7 */
+  /* .modal {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    border: 1px solid #000000;
+    position: relative;
+  }
+          
+  .content {
+    position: absolute;
+    top: 0;
+    width: 20px;
+    height: 20px;
+  } */
+
+/* Задача 8 */
+/* body {
+  margin: 0;
+}
+       
+.modal {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+  position: relative;
+}
+        
+.content {
+  position: fixed;
+  top: 0;
+  width: 20px;
+  height: 20px;
+} */
+
+/* Задача 9 */
+/* span {
+    display: inline;
+    width: 120px;
+    padding: 10px 15px 20px 25px;
+    border: 1px solid #000000;
+  } */
+
+/* Задача 10 */
+  /* span {
+    display: block;
+    width: 120px;
+    padding: 10px 15px 20px 25px;
+    border: 1px solid #000000;
+  } */
+
+/* Задача 11 */
+  /* .wrapper{
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+  }
+          
+  .content {
+    box-sizing: border-box;
+    width: 120px;
+    height: 200px;
+    padding: 10px 15px 20px 25px;
+  } */
+
+/* Задача 12 */
+/* .wrapper {
+    box-sizing: border-box;
+    width: 500px;
+    padding: 20px;
+  }
+          
+  .content {
+    box-sizing: border-box;
+    padding: 10px;
+  } */
+
+/* Задача 13 */
+/* .parent {  
+    width: 500px;  
+    height: 300px;
+  }
+      
+  .child {  
+    width: 200px;  
+    height: 100px;  
+    padding-top: 50px
+  } */
+
+/* Задача 14 */
+/* .wrapper {
+    width: 1000px;
+    padding: 50px;
+  }
+  
+  .list-items{
+    width: 50%;
+  }
+  
+  .item {
+    width: 70%;
+  } */
+
+/* Задача 15 */
+/* .box {  
+    width: calc(200px / 2);
+    box-sizing: content-box;
+    padding: 50px;
+    border: 1px solid transparent;
+  } */
+
+/* Задача 16 */
+  /* .box {  
+    width: calc(400px / 2);  
+    box-sizing: border-box;  
+    padding: 50px 25px 100px;  
+    border: 3px solid transparent;  
+    border-left-width: 1px;
+  } */
+
+/* Задача 17 */
+/* .parent {  
+    width: 1000px;  
+    box-sizing: border-box;  
+    padding: 50px;
+  }
+  
+.child {  
+    width: 50%;
+  } */
